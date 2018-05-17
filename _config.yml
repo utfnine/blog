@@ -1,1 +1,10 @@
+# basic options
+title: Information Security
+author: utfnine
+description: Discussing random topics related to IT and information security
+twitter_username: utfnine
+github_username:  utfnine
+
+# Build settings
+markdown: kramdown
 theme: jekyll-theme-hacker
