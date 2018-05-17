@@ -1,7 +1,13 @@
 ---
 layout: post
-title: A Great First Post
+title: First Post
 ---
 
-This is it!
-What a wonderful post!
+Here we will be discussing something very important!
+
+## Topic 1
+details...
+
+### Topic 1.a
+more details....
+
